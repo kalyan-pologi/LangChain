@@ -31,3 +31,7 @@ sentence-transformers
 streamlit
 
 pydantic
+
+langchain-community
+langchain-text-splitters
+langchain-experimental

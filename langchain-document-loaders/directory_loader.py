@@ -9,4 +9,5 @@ loader = DirectoryLoader(
 docs = loader.lazy_load()
 
 for document in docs:
+    print(document.page_content)
     print(document.metadata)
