@@ -1,0 +1,7 @@
+python -m venv langchain-env
+
+langchain-env\Scripts\activate
+
+pip install -r requirements.txt
+
+verify langchain installation
