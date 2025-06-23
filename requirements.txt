@@ -35,3 +35,5 @@ pydantic
 langchain-community
 langchain-text-splitters
 langchain-experimental
+
+youtube-transcript-api
